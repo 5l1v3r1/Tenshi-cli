@@ -10,11 +10,18 @@ nếu chưa thì thực hiện bước sau
 ```
 npm install --global coffeescript
 ```
-
 download project này về,
 
-rồi chạy coffee ./start.coffee
+cd vào folder chứa project
+```
+npm i
 
+```
+và
+```
+coffee ./start.coffee
+
+```
 xong <3 sau đó nó sẽ hỗ trợ bạn cài đặt tenshi bot
 
 ![Tenshi](https://images8.alphacoders.com/430/thumb-1920-430485.jpg)
