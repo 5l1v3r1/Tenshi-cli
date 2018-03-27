@@ -17,6 +17,6 @@ rồi chạy coffee ./start.coffee
 
 xong <3 sau đó nó sẽ hỗ trợ bạn cài đặt tenshi bot
 
-![Tenshi](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![Tenshi](https://images8.alphacoders.com/430/thumb-1920-430485.jpg)
 
 
