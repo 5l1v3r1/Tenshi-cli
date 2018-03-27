@@ -13,7 +13,17 @@ npm install --global coffeescript
 
 download project này về,
 
-rồi chạy coffee ./start.coffee
+cd vào folder đang chưa project
+
+chạy lệnh sau
+```
+npm i
+```
+và 
+```
+coffee ./start.coffee
+```
+lúc này <3 nó sẽ tự động cài bot cho bạn
 
 xong <3 sau đó nó sẽ hỗ trợ bạn cài đặt tenshi bot
 
