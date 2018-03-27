@@ -1,0 +1,28 @@
+{
+  "name": "tenshi-cli",
+  "version": "1.0.0",
+  "description": "Help you install tenshi better",
+  "main": "start.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VNBot-Developers/Tenshi-cli.git"
+  },
+  "author": "gr33ntii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VNBot-Developers/Tenshi-cli/issues"
+  },
+  "homepage": "https://github.com/VNBot-Developers/Tenshi-cli#readme",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "fs": "0.0.1-security",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "prompt": "^1.0.0",
+    "shelljs": "^0.8.1",
+    "sudo-prompt": "^8.2.0"
+  }
+}
